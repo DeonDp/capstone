@@ -1,0 +1,125 @@
+body {
+	background-image: url(../images/pagebg.jpg);
+	background-color: #FFFFFF;
+	margin: 0px 0px 0px 0px;
+	
+}
+
+a:link {
+	color: #FFFFFF;
+}
+
+a:visited {
+	color: #00FFFF;
+}
+
+a:hover {
+	color: #00FF00;
+}
+
+div {
+	text-align: center;
+}
+
+span {
+	font-family: Verdana;
+}
+
+h1 big {
+
+	color: #CC0000; 
+	text-align: center;
+	font-weight: normal; 
+}
+
+h1 span {
+
+	color: black;
+	font-family: verdana;
+}
+
+h2 { 
+	text-align: center;
+}
+
+h2 span {
+	font-style: italic;
+}
+
+h2 span span {
+	color: red;
+}
+
+li {
+	text-align: center;
+	font-family: Verdana;
+}
+
+p span {
+	font-family: Tahoma,Geneva,sans-serif;
+	text-align: right;
+}
+
+#date {
+	color: #b5e61d;
+	font-family: serif;
+}
+
+#Introimage {
+	width: 682px; 
+	height: 164px; 
+}
+
+#automatedtrainer {
+	height:500px;
+	width:378px;
+}
+
+#details {
+	width: 650px; 
+	height: 97px;
+}
+
+#ht {
+	background-image: url("../images/header.jpg");
+	height:348px; 
+	width:889px;
+	position: absolute;
+	left:286px;
+
+}
+
+#t1 {
+
+	background-image: url("../images/content.jpg");
+	width:892px;
+	position: absolute;
+	left:286px;
+	top:349px;
+}
+
+#ft {
+	background: url("../images/footer.jpg");
+	position: relative;
+	left: -3px;
+	height:194px; 
+	width:886px;
+}
+
+#content_table {
+	width: 700px; 
+	text-align: left; 
+	margin: auto; 
+}
+
+#acknowledgements {
+	text-align: right;
+}
+
+#spesh {
+
+	color: #990000;
+}
+.style3 {
+	text-align: center;
+}
